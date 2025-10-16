@@ -4,3 +4,4 @@ ruff
 pytest-cov
 fastapi
 uvicorn
+mlflow
