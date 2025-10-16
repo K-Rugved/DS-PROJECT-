@@ -5,3 +5,4 @@ pytest-cov
 fastapi
 uvicorn
 mlflow
+xgboost
