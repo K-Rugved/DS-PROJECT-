@@ -69,4 +69,5 @@ pytest
 flake8
 ruff
 pytest-cov
-
+fastapi
+uvicorn
