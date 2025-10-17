@@ -40,6 +40,12 @@ jobs:
         run: |
           pytest tests/ -v --cov=src --cov-report=xml
 
+      - name: Build package
+        run: |
+         pip install build
+         python -m build
+
+
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v3
         with:

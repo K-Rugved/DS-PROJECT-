@@ -59,11 +59,13 @@ To implement a CI/CD pipeline using open-source tools like GitHub Actions, DVC, 
 - Organized repo with proper folder structure
 - Test file verifying model presence and loading
 
+
 ---
 
 
 ## ✅ Conclusion
 Successfully implemented a CI/CD pipeline using GitHub Actions, DVC, and Docker to automate testing, linting, and deployment for a data science project. This setup ensures reproducibility, code quality, and smooth collaboration.
+
 
 pytest
 flake8
